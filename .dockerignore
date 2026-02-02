@@ -1,0 +1,34 @@
+# Docker ignore file
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jenkins
+Jenkinsfile
+
+# Docs
+README.md
+*.md
+
+# Logs
+*.log
